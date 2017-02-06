@@ -1,8 +1,0 @@
----
-- AccountNumber:
-    - PolicyName1:
-        - Exception1
-        - Exception2
-        - Exception3
-    - PolcyName2:
-        - Exception4
