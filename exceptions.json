@@ -1,8 +1,8 @@
 {
-  "AccountNumber1": {
-    "PolicyName1": [
-      "Exception1",
-      "Exception2"
+  "22281": {
+    "example1": [
+      "ec2:CreateSubnet",
+      "ec2:CreateVpc"
     ]
   }
 
